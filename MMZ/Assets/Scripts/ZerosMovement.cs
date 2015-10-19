@@ -6,14 +6,17 @@ public class ZerosMovement : MonoBehaviour {
 	public float speed;
 	private Animator anim;
 	Rigidbody2D rb;
+	Vector3 playerVelocity;
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator> ();
 		rb = GetComponent<Rigidbody2D> ();
+		playerVelocity = Vector3.zero;
 	}
 	void Update()
 	{
 		anim.SetFloat ("Walk", Mathf.Abs (Input.GetAxis ("Horizontal")));
+		playerVelocity.x = Input.GetAxis ("Horizontal") * maxspeed;
 		if (Input.GetAxis ("Horizontal") < -0.1f&&!Input.GetButtonDown ("Fire1")) {
 			transform.localScale=new Vector3(-1,1,1);
 		}
@@ -28,6 +31,7 @@ public class ZerosMovement : MonoBehaviour {
 			rb.AddForce(transform.right*20);
 			anim.SetTrigger("Dash");
 		}
+		rb.velocity = playerVelocity;
 	}
 	// Update is called once per frame
 //	void FixedUpdate () {
