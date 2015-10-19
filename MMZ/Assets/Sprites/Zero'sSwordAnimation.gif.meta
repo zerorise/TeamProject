@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 209f679372d441e4b82805b64dbbf788
-timeCreated: 1445049371
+timeCreated: 1445214112
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -184,7 +184,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: 0
     aniso: 16
@@ -209,89 +209,89 @@ TextureImporter:
     - name: Zero'sSwordAnimation_0
       rect:
         serializedVersion: 2
-        x: 127
-        y: 1062
-        width: 31
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 128
+        y: 1063
+        width: 32
+        height: 39
+      alignment: 9
+      pivot: {x: .625, y: .514999986}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_1
       rect:
         serializedVersion: 2
         x: 160
-        y: 1062
+        y: 1063
         width: 71
-        height: 46
+        height: 45
       alignment: 9
-      pivot: {x: .300000012, y: .5}
+      pivot: {x: .349999994, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_2
       rect:
         serializedVersion: 2
         x: 239
-        y: 1062
+        y: 1063
         width: 71
-        height: 46
+        height: 45
       alignment: 9
-      pivot: {x: .300000012, y: .5}
+      pivot: {x: .36500001, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_3
       rect:
         serializedVersion: 2
         x: 321
-        y: 1062
-        width: 56
-        height: 46
+        y: 1063
+        width: 67
+        height: 45
       alignment: 9
-      pivot: {x: .400000006, y: .5}
+      pivot: {x: .400999993, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_4
       rect:
         serializedVersion: 2
         x: 389
-        y: 1062
+        y: 1063
         width: 43
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 45
+      alignment: 9
+      pivot: {x: .601000011, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_5
       rect:
         serializedVersion: 2
         x: 444
-        y: 1062
+        y: 1063
         width: 45
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 45
+      alignment: 9
+      pivot: {x: .595000029, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_6
       rect:
         serializedVersion: 2
-        x: 505
-        y: 1062
-        width: 31
-        height: 46
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        x: 499
+        y: 1063
+        width: 37
+        height: 45
+      alignment: 9
+      pivot: {x: .699999988, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_7
       rect:
         serializedVersion: 2
         x: 544
-        y: 1062
+        y: 1063
         width: 38
-        height: 46
+        height: 45
       alignment: 9
-      pivot: {x: .600000024, y: .5}
+      pivot: {x: .74000001, y: .449999988}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_8
       rect:
         serializedVersion: 2
         x: 100
         y: 1003
-        width: 66
+        width: 67
         height: 48
       alignment: 0
       pivot: {x: .5, y: .5}
@@ -311,8 +311,8 @@ TextureImporter:
         serializedVersion: 2
         x: 251
         y: 1003
-        width: 62
-        height: 37
+        width: 66
+        height: 48
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,10 +321,10 @@ TextureImporter:
         serializedVersion: 2
         x: 321
         y: 1003
-        width: 46
+        width: 55
         height: 37
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .616648018, y: .647127748}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_12
       rect:
@@ -332,9 +332,9 @@ TextureImporter:
         x: 377
         y: 1003
         width: 34
-        height: 36
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 48
+      alignment: 9
+      pivot: {x: .99000001, y: .49000001}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_13
       rect:
@@ -342,39 +342,39 @@ TextureImporter:
         x: 421
         y: 1004
         width: 36
-        height: 35
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 48
+      alignment: 9
+      pivot: {x: .975000024, y: .465000004}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_14
       rect:
         serializedVersion: 2
         x: 469
-        y: 1006
+        y: 1004
         width: 36
-        height: 33
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        height: 48
+      alignment: 9
+      pivot: {x: .964999974, y: .465000004}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_15
       rect:
         serializedVersion: 2
         x: 520
         y: 1006
-        width: 30
-        height: 36
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: .889999986, y: .439999998}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_16
       rect:
         serializedVersion: 2
         x: 562
         y: 1006
-        width: 33
-        height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: .889999986, y: .439999998}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sSwordAnimation_17
       rect:

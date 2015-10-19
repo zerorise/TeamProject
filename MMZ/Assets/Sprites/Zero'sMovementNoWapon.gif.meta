@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 3d93ff7e8e4924a45b7c142eb0345168
-timeCreated: 1445043583
+timeCreated: 1445218422
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -157,7 +157,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: 0
     aniso: 16
@@ -354,118 +354,118 @@ TextureImporter:
         serializedVersion: 2
         x: 87
         y: 574
-        width: 37
-        height: 47
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_18
       rect:
         serializedVersion: 2
-        x: 126
+        x: 128
         y: 573
-        width: 37
-        height: 47
+        width: 31
+        height: 46
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_19
       rect:
         serializedVersion: 2
-        x: 159
+        x: 163
         y: 572
-        width: 37
-        height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: .469999999, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_20
       rect:
         serializedVersion: 2
         x: 196
         y: 572
-        width: 37
-        height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 31
+        height: 46
+      alignment: 9
+      pivot: {x: .535000026, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_21
       rect:
         serializedVersion: 2
-        x: 232
+        x: 233
         y: 572
-        width: 37
-        height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 30
+        height: 46
+      alignment: 9
+      pivot: {x: .550000012, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_22
       rect:
         serializedVersion: 2
         x: 269
         y: 572
-        width: 37
-        height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 36
+        height: 46
+      alignment: 9
+      pivot: {x: .625, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_23
       rect:
         serializedVersion: 2
         x: 316
         y: 571
-        width: 37
-        height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: .560000002, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_24
       rect:
         serializedVersion: 2
         x: 357
         y: 572
-        width: 37
-        height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+        width: 33
+        height: 46
+      alignment: 9
+      pivot: {x: .560000002, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_25
       rect:
         serializedVersion: 2
         x: 399
         y: 572
-        width: 37
+        width: 33
         height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .560000002, y: .488999993}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_26
       rect:
         serializedVersion: 2
         x: 438
         y: 572
-        width: 37
+        width: 33
         height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .560000002, y: .488999993}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_27
       rect:
         serializedVersion: 2
         x: 477
         y: 569
-        width: 37
+        width: 34
         height: 47
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .550000012, y: .488999993}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sMovementNoWapon_28
       rect:
         serializedVersion: 2
         x: 517
         y: 569
-        width: 37
-        height: 47
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}

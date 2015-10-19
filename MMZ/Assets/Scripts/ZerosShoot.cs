@@ -12,21 +12,10 @@ public class ZerosShoot : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		//anim.SetFloat ("Walk", Mathf.Abs (Input.GetAxis ("Horizontal")));
-//		if (Input.GetAxis ("Horizontal") < -0.1f&&Input.GetButtonDown ("Fire1")) {
-//			anim.SetBool ("MoveShoot",true);
-//			transform.localScale=new Vector3(-1,1,1);
-//		}
-//		if (Input.GetAxis ("Horizontal") > 0.1f&&Input.GetButtonDown ("Fire1")) {
-//			anim.SetBool ("MoveShoot",true);
-//			transform.localScale=new Vector3(1,1,1);
-//		}
-		if (Input.GetButtonDown ("Fire1"))
+		if (Input.GetButtonDown ("Fire2"))
 			anim.SetBool ("Shoot",true);
-		if (Input.GetButtonUp ("Fire1"))
+		if (Input.GetButtonUp ("Fire2"))
 			anim.SetBool ("Shoot",false);
-			anim.SetBool ("MoveShoot",false);
-			anim.SetBool ("DashShoot",false);
 
 
 	}

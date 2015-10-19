@@ -6,12 +6,12 @@ public class ZerosMovement : MonoBehaviour {
 	public float speed;
 	private Animator anim;
 	Rigidbody2D rb;
-	Vector3 playerVelocity;
+	Vector2 playerVelocity;
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator> ();
 		rb = GetComponent<Rigidbody2D> ();
-		playerVelocity = Vector3.zero;
+		playerVelocity = Vector2.zero;
 	}
 	void Update()
 	{
@@ -24,11 +24,12 @@ public class ZerosMovement : MonoBehaviour {
 			transform.localScale=new Vector3(1,1,1);
 		}
 		if (Input.GetKeyDown (KeyCode.Space)) {
-			rb.AddForce(transform.up*20f);
+			rb.AddForce(transform.up*1000);
 			anim.SetTrigger("Jump");
 		}
 		if (Input.GetAxis ("Horizontal") != 0 && Input.GetKeyDown (KeyCode.LeftShift)) {
-			rb.AddForce(transform.right*20);
+			//playerVelocity.x = Input.GetAxis ("Horizontal") * maxspeed;
+			rb.AddForce(transform.right*1000);
 			anim.SetTrigger("Dash");
 		}
 		rb.velocity = playerVelocity;

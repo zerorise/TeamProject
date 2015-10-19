@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: cd5fe99c8e44a404997fd6bbc5a00e42
-timeCreated: 1445048328
+timeCreated: 1445216630
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -92,7 +92,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
-  maxTextureSize: 1024
+  maxTextureSize: 2048
   textureSettings:
     filterMode: 0
     aniso: 16
@@ -121,8 +121,8 @@ TextureImporter:
         y: 370
         width: 42
         height: 40
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .479999989, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_1
       rect:
@@ -131,8 +131,8 @@ TextureImporter:
         y: 370
         width: 42
         height: 40
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .479999989, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_2
       rect:
@@ -141,8 +141,8 @@ TextureImporter:
         y: 370
         width: 42
         height: 40
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .479999989, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_3
       rect:
@@ -247,92 +247,92 @@ TextureImporter:
     - name: Zero'sBusterAnimations_13
       rect:
         serializedVersion: 2
-        x: 1
+        x: 4
         y: 263
-        width: 49
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_14
       rect:
         serializedVersion: 2
-        x: 48
+        x: 50
         y: 263
-        width: 47
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_15
       rect:
         serializedVersion: 2
-        x: 93
+        x: 95
         y: 263
-        width: 47
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_16
       rect:
         serializedVersion: 2
-        x: 138
+        x: 140
         y: 263
-        width: 49
+        width: 46
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .5, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_17
       rect:
         serializedVersion: 2
-        x: 187
+        x: 189
         y: 263
-        width: 49
+        width: 44
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .521000028, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_18
       rect:
         serializedVersion: 2
-        x: 235
+        x: 237
         y: 263
-        width: 49
+        width: 44
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .521000028, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_19
       rect:
         serializedVersion: 2
         x: 284
         y: 263
-        width: 49
+        width: 46
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .5, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_20
       rect:
         serializedVersion: 2
         x: 335
         y: 263
-        width: 49
+        width: 44
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .521000028, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_21
       rect:
         serializedVersion: 2
-        x: 382
+        x: 384
         y: 263
-        width: 49
+        width: 44
         height: 39
       alignment: 9
-      pivot: {x: .545424461, y: .499999225}
+      pivot: {x: .521000028, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_22
       rect:
@@ -341,8 +341,8 @@ TextureImporter:
         y: 265
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .50999999, y: .439999998}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_23
       rect:
@@ -351,8 +351,8 @@ TextureImporter:
         y: 265
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .50999999, y: .439999998}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_24
       rect:
@@ -361,158 +361,158 @@ TextureImporter:
         y: 265
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .50999999, y: .439999998}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_25
       rect:
         serializedVersion: 2
-        x: 18
+        x: 20
         y: 217
-        width: 49
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_26
       rect:
         serializedVersion: 2
-        x: 66
+        x: 67
         y: 217
-        width: 47
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_27
       rect:
         serializedVersion: 2
-        x: 111
+        x: 113
         y: 217
-        width: 49
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_28
       rect:
         serializedVersion: 2
-        x: 157
+        x: 161
         y: 218
-        width: 49
-        height: 39
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_29
       rect:
         serializedVersion: 2
-        x: 204
+        x: 206
         y: 218
-        width: 45
-        height: 39
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_30
       rect:
         serializedVersion: 2
-        x: 247
+        x: 249
         y: 218
-        width: 45
-        height: 39
+        width: 40
+        height: 40
       alignment: 0
       pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_31
       rect:
         serializedVersion: 2
-        x: 290
+        x: 292
         y: 217
-        width: 49
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_32
       rect:
         serializedVersion: 2
         x: 339
         y: 217
-        width: 44
+        width: 43
         height: 39
       alignment: 9
-      pivot: {x: .50999999, y: .5}
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_33
       rect:
         serializedVersion: 2
         x: 383
         y: 217
-        width: 45
+        width: 43
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .469999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_34
       rect:
         serializedVersion: 2
-        x: 428
+        x: 429
         y: 217
-        width: 49
+        width: 45
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .521000028, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_35
       rect:
         serializedVersion: 2
         x: 479
         y: 217
-        width: 47
+        width: 45
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .521000028, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_36
       rect:
         serializedVersion: 2
-        x: 526
+        x: 528
         y: 217
-        width: 51
+        width: 45
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .521000028, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_37
       rect:
         serializedVersion: 2
         x: 62
         y: 169
-        width: 49
+        width: 45
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .50999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_38
       rect:
         serializedVersion: 2
         x: 113
         y: 169
-        width: 49
+        width: 45
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .50999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_39
       rect:
         serializedVersion: 2
         x: 162
         y: 169
-        width: 47
+        width: 45
         height: 39
       alignment: 9
-      pivot: {x: .519999981, y: .5}
+      pivot: {x: .50999999, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_40
       rect:
@@ -521,8 +521,8 @@ TextureImporter:
         y: 169
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .550000012, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_41
       rect:
@@ -531,8 +531,8 @@ TextureImporter:
         y: 169
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .550000012, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_42
       rect:
@@ -541,8 +541,8 @@ TextureImporter:
         y: 169
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .550000012, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_43
       rect:
@@ -551,8 +551,8 @@ TextureImporter:
         y: 169
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .550000012, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_44
       rect:
@@ -561,8 +561,8 @@ TextureImporter:
         y: 169
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .550000012, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_45
       rect:
@@ -571,8 +571,8 @@ TextureImporter:
         y: 169
         width: 49
         height: 39
-      alignment: 0
-      pivot: {x: .5, y: .5}
+      alignment: 9
+      pivot: {x: .550000012, y: .50999999}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_46
       rect:
@@ -612,17 +612,17 @@ TextureImporter:
         width: 55
         height: 33
       alignment: 9
-      pivot: {x: .479999989, y: .5}
+      pivot: {x: .481999993, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_50
       rect:
         serializedVersion: 2
         x: 348
         y: 122
-        width: 52
+        width: 53
         height: 33
       alignment: 9
-      pivot: {x: .50999999, y: .5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_51
       rect:
@@ -632,7 +632,7 @@ TextureImporter:
         width: 53
         height: 33
       alignment: 9
-      pivot: {x: .500999987, y: .5}
+      pivot: {x: .5, y: .5}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Zero'sBusterAnimations_52
       rect:
